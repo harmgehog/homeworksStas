@@ -2,7 +2,7 @@
 # выводит его.
 import random
 
-
+# Hello Stas!!! 
 def f():
     n = int(input())
     if 0 < n <= 100:
